@@ -1,6 +1,7 @@
 
 {
-  "version": "Sample 1.0.0",
+  "type": "Live2D Model Setting",
+  "name": "air_attack",
   "model": {
     "1": "model.moc",
     "2": "model2.moc",
