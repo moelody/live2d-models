@@ -1,11 +1,11 @@
 {
   "type": "Live2D Model Setting",
   "name": "air_attack",
-  "model": {
-    "1": "model.moc",
-    "2": "model2.moc",
-    "3": "model3.moc"
-  },
+  "model": [
+    "model.moc",
+    "model2.moc",
+    "model3.moc"
+  ],
   "textures": [
     "textures.1024/texture_00.png"
   ],
