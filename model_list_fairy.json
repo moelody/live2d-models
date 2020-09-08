@@ -1,0 +1,24 @@
+{
+    "models": [
+        "fairy/air_attack",
+        "fairy/airborne",
+        "fairy/armor",
+        "fairy/command",
+        "fairy/fighting",
+        "fairy/fortress",
+        "fairy/golden",
+        "fairy/shield",
+        "fairy/target"
+    ],
+    "messages": [
+        "轰炸姬登场~（嗨）",
+        "我是空降姬哦~（吖）",
+        "盾牌姬在这~~（含羞）",
+        "这里是指挥姬，收到请回话~！（笑）",
+        "干嘛！有事吗？（▼㉨▼メ）",
+        "堡垒施工中~~（呼）",
+        "看啥~！（嘿嘿）",
+        "啦啦~啦啦~啦~",
+        "目标已瞄准，准备滑稽（欸）~"
+    ]
+}
