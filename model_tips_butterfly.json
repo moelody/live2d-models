@@ -122,25 +122,25 @@
     "selector": "#site_social_icons",
     "text": ["主人的联系方式", "快来和主人做朋友吧！"]
   }, {
-    "selector": ".card-info",
+    "selector": ".card-info *",
     "text": ["有什么问题可以联系主人哦~！", "快来和主人做朋友吧！"]
   }, {
-    "selector": ".card-announcement",
+    "selector": ".card-announcement *",
     "text": ["快来看看主人发的公告~！", "看上去好帅哦~"]
   }, {
     "selector": ".layout_page a.title",
     "text": ["新鲜文章出炉了，要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"]
   }, {
-    "selector": ".card-newest-comments",
+    "selector": ".card-newest-comments *",
     "text": ["大佬要来留个言嘛~", "本站最新的评论"]
   }, {
-    "selector": ".card-pixiv",
+    "selector": ".card-pixiv *",
     "text": ["想知道怎么弄吗？去看看主人的魔改记录吧！", "Pixiv日榜，看上去好so!"]
   }, {
     "selector": ".cal-today",
     "text": ["今天是 <span style=\"color:#0099cc;\">{text}</span> 号了"]
   }, {
-    "selector": ".card-category-list-name]",
+    "selector": ".card-category-list-name",
     "text": ["让我康康 <span style=\"color:#0099cc;\">{text}</span> 里有什么好东西！", "点击小箭头可以展开分类哦~！"]
   }, {
     "selector": ".card-tag-cloud a[href*='/tags/']",
@@ -149,7 +149,7 @@
     "selector": ".card-archive-list-date",
     "text": ["让我康康 <span style=\"color:#0099cc;\">{text}</span> 有哪些文章！", "主人真是太懒了！"]
   }, {
-    "selector": ".card-webinfo",
+    "selector": ".card-webinfo *",
     "text": ["本站统计信息，要仔细看看吗？"]
   }, {
     "selector": ".layout_page a.article-title",
@@ -161,17 +161,17 @@
     "selector": "#post .reward-button",
     "text": ["打赏一下人家嘛~，几天没吃饭了(>﹏<。)～呜呜呜……"]
   }, {
-    "selector": "#post .prev-post",
+    "selector": "#post .prev-post *",
     "text": ["去上一篇文章康康吧！"]
   }, {
-    "selector": "#post .next-post",
+    "selector": "#post .next-post *",
     "text": ["去下一篇文章康康吧！"]
   }, {
     "selector": "#post .relatedPosts-list",
     "text": ["这些文章看上去很不错的样子"]
   }, {
-    "selector": "#jsi-flying-fish-container",
-    "text": ["好多好多好多鱼~", "鱼，好大的鱼，虎纹鲨鱼"]
+    "selector": "#footer-wrap div",
+    "text": ["滿碗魚隻隻開爐","看吾碗裡還撒個辣辣魚","黑魚劈很久咯","看看我砍了很久,媽的,難肉,哭","海鱔魚還燜不燜哎","他妹的,一斤就一叠","班鮫和那石斑魚","拿拿拿，拿竿来！","咕嚕和海魚有没有","我殺的鮭魚是誰的","海口那可愛的大魚","熟，宰，劈，蒸，燜牠","那魚有吃沒有阿","魚!好大的魚!虎紋鯊魚,拿鐵鍋撈大魚!","燉了那湖鯽，熬熟了又倒末~","乾蒸吧!魚那個頭咯,哈,起竿略!","看!鮭魚的頭!上鉤了!","吾還要抓大魚!","補網累了,勿心疼魚漏幾條哎","太幼先不殺","靜補勿打開網,幾步路","心急的魚"]
   }, {
     "selector": "#myhkplayer .switch-player",
     "text": ["要听听音乐吗？", "主人的收藏，快来听听吧！"]
@@ -246,10 +246,10 @@
     "selector": "#veditor",
     "text": ["要吐槽些什么呢？", "一定要认真填写喵～", "有什么想说的吗？"]
   }, {
-    "selector": ".vemoji-btn",
+    "selector": ".vemoji-btn svg",
     "text": ["看看有啥表情", "没啥表情啦~", "（滑稽）"]
   }, {
-    "selector": ".vpreview-btn",
+    "selector": ".vpreview-btn svg",
     "text": ["Markdown淫纹", "别看我啦"]
   }, {
     "selector": ".vsubmit",
