@@ -104,6 +104,9 @@
     "selector": "a.site-page[href='/iconfont/']",
     "text": ["阿里巴巴的图标库语啦", "好多好多好看的图标啊~~"]
   }, {
+    "selector": "a.site-page[href='/animated/']",
+    "text": ["主题相关的图标动效库", "动起来~~"]
+  }, {
     "selector": "a.site-page[href*='//mikutap.moelody.com']",
     "text": ["好玩的网页音游，要来玩玩嘛~~", "动次打次~！"]
   }, {
