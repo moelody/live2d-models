@@ -215,6 +215,9 @@
     "selector": "#rightside_config",
     "text": ["好多好多功能啊~"]
   }, {
+    "selector": "#hide-aside-btn",
+    "text": ["要隐藏/显示边栏吗？"]
+  }, {
     "selector": "#to_comment",
     "text": ["想要去评论些什么吗？"]
   }, {
